@@ -1,0 +1,86 @@
+what are callback function?
+higher-order function
+derived from the programming paradigm - functional programming
+
+what is functional programming?
+
+what is async and await?
+getting data from a server
+processing how we get the data from the server.
+it is an asynchronous process.
+waiting for a response from big database query  can take up to 15 seconds.
+
+if it was done synchronously the browser would have to wait until the action is done before doing anything else.
+
+in an asynchronous call, the browser doesn't stop at the async call while you wait for the response. Once the response from the query is recieved, the execution jump to the callback which is suppose to exevute after that particular response is recived.
+
+Queuing the database takes a while to do.
+
+asychronous makes it possible for multiple clients to interact with the server and recieve info while interacting with each other.
+
+what is the server connection sharing?
+
+having multiple user to interact with the server. how does the server handle the amount of stress?
+
+wer don't have a problem provided for the portals environments
+
+
+SYNTAX
+ajax request?!
+asychronous javascript and xml
+comprise of
+    to request data from a web server
+    javascript and html dom
+
+
+    const fetchAlbums = async ()=> {
+        const res = await fetch('https://rallycoding.herokuapp.com/api/music_albums')
+        const json = await res.json()
+
+        console.log(json)
+    }
+
+    fetchAlbums()
+
+
+async the function
+
+await for the value
+
+const res = await fetch
+
+res will return the fetch values
+
+use the const res to another wait call to  parse into the a json format
+
+console.log(json)
+
+
+
+materialize css able to override
+
+bootstrap
+
+how to use css with bootstrap?!
+
+
+
+
+<Container >
+    <Row>
+        <Col>
+            <Card>
+                <CardTitle>Login</CardTitle>
+                <Form>
+                    <FormGroup>
+
+                        <Input type='email' name='email' placeholder="Email"/>
+                        <Input type='password' name='password' placeholder="Password"/>
+
+                    </FormGroup>
+                </Form>
+            </Card>
+        </Col>
+    </Row>
+
+</Container>

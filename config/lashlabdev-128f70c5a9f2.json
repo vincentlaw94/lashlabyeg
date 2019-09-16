@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lashlabdev",
+  "private_key_id": "128f70c5a9f28021d3e775f29f55a370c43ca7c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDJlQ5iPGs9Zz/\nT9EaD7ckcGbBYjFjvjYoZ4QLI+lL7NHqARH/WDhhsQfaJSnkcv5bzbYXsTfJhqiJ\nQmJCjPWRUrxWjKhABN02nqjIYVHbAGN1RAIURIHa/WCc4MMdtDLUueBgFMsM/pCv\nlsN2y2ycsm1AEy0TZaICpMIo7VKLgwL8JZ8BesqUdWPGVfnp5WwQE9d9aqFcA9Dj\n+iObLaQ/pO2h/9GTQBNjRijzeH6eb+9Dlwx4zn/SAwR8etmahl0BMT080VEpLp/g\nOPkZkkR4Y6BaFfq2ZaoU5hcpY5hyo9230H6et1oQz6Gz7ykVsfax6itS68BiiH16\nKb5QzLFHAgMBAAECggEAAfQQQ8MrKCANQkD6RtiBbMvzO1xQQj9VK3Jdz/68BxaH\nw1/fXj7z0YaEHZrhoHfGNAULHZGYjVvbtAQGF8RxcNLzL6qYxItH65QK/HZ860RF\nupbDrpBA/IAsx2U4jsOO/rIdnNiYb7jcmeVYb4f5vlfK4ClQ+jC6PmyHxQEbImpY\n0AYiAXH3En/GKdloo21MvWVd3Tsct5YiQDZ+Z6TT2tqiIEl6ig1258bNitxSxzzp\n0GtPlT5L1Tfme2JnPIwTuDhTmwk7pSsFVBiZoFJjTRDzCbDHf6J3QFtkfIT/WBbl\nrfpVXOpCjV4iwqbpZXsm5BwCDE/gTZ519fkhyFPqgQKBgQDyZnWa0yQ28ZHhsbf0\n+Hbqvl8e32zyrPKZ3ZprdhwznbBpkOLHKmnApkELWBAmZ5q7gxJ1aft0eQQn0ecm\nnXCoLepbV4fXpXaj1ksom2CiDhGTllwXFygC6WDIo1iH+OikuHl13E/VioDXKihz\nHZY15Nk2yItdLyyUpYgfYcYEhQKBgQDOGTiXE9AhgP9Y3JbN+5oluwe92O1P+OGr\nLqsvgXcZV55HnDHKl6o99hwD+3XA+IOe8HgZ9q0pMhNFh+PY3JJ69AoSiNy4k9la\nCrzAhf5E+EWFfY23wNDRxpYl+PnyZJBizWI34cViVBaLyq9G/JPNk71hrxbIFJ8y\nBu/D09OeWwKBgQDRrKET8ImF4UWv9VtLUlUCzvNWsCr8a29aet6lD8BrQX6kggg4\nAU8Croza9CzcG4gzpLglyiwRXtCiZSXOOCeHwlfS9Q7zERRjuey/Tk+zPfokMM6t\nxoD8q8TlKK5ex4btXQjrU0vXSfwSokvk73XMXo0pnyU10KV+WwU5KAjyRQKBgHx6\nsTpWhivmPNPQD+mDYHwPdcKNpe/ac3qv6kb8HBIbYIcB6PTjG7jmz8777whJUT4L\nIY8U9UtfalJhnBVcS8Clavv828tDyVBgEdb6VzQS+/J/fbwRYk6BciinM1fas3Zp\ndDwqScx021U9axYl8aOF6yl31fussOZHWENfyn3nAoGBAIq7/5zQD4eOQE+YvcoO\nnYA9ZVVYEWsWqfvqEKZg7mp0VKWm44X2hLpOwGUmMVaOxvbvorfhPJEwUdrkuNA8\nMBpS+3FefHICEpR+VKBcOvZZg/04pRn2n7aSGvkRLTtR+wPdo5OdTrm1bXVkfH/W\ny/cAjlwN0XPLWM4HI3rh8Wd6\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-618@lashlabdev.iam.gserviceaccount.com",
+  "client_id": "110422250727081674041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-618%40lashlabdev.iam.gserviceaccount.com"
+}
