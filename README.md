@@ -6,8 +6,8 @@ LASH LAB YEG is a small business level web application in MERN stack. This platf
 ## Features
 
 LASH LAB YEG features include:
-
-- Client Management and Login flow
+- OAuth Login
+- Client Management 
 - Online booking system 
 - Landing Page
 
