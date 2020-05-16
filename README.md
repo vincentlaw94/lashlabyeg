@@ -1,15 +1,15 @@
-# LASH LAB YEG (MERN)
-
-LASH LAB YEG is a small business level web application in MERN stack. This platform already contains components like online booking system, client account management, and a landing page.
+# LASH LAB YEG 
+LASH LAB YEG is a beauty business web application built with MongoDB, Express.js, React, and Node.JS. 
 
 
 ## Features
 
 LASH LAB YEG features include:
+- Landing Page
 - OAuth Login
 - Client Management 
 - Online booking system 
-- Landing Page
+
 
 
 ## Future features include:
